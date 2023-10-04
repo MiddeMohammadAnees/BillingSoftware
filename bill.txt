@@ -1,0 +1,15 @@
+	 Welcome To Our Store
+ Bill Number:8348
+ Customer Name:xyz
+ Phone Number:1234567890
+ Email:ewihfiufh
+===================================================
+ Products		QTY		Price
+===================================================
+
+ paracetemol		20		400.0
+===================================================
+ Sub Amount:			RS.400.00
+ Tax Amount:			RS.4.00
+ Total Amount:			RS.404.00
+===================================================
